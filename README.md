@@ -1,9 +1,31 @@
 # BarcodePro Web API for Docker
 
-Coming soon...
+**[BarcodePro Web API for Docker](https://www.neodynamic.com/products/barcode/docker/)** generates **High-Quality GS1-ISO-Compliance barcode images** that can be used from **Any Development Platform and Programming Languages (.NET, Java, PHP, Javascript, Python, Ruby, and more!)** 
 
+Designed by following some of the **REST** principles, **BarcodePro Web API for Docker** responds to a simple **[HTTP POST](https://neodynamic.com/products/barcode/docker#How-to-use)** by specifying the **[Barcode settings through a JSON object](https://neodynamic.com/products/barcode/docker#The-Barcode-Object)** in the request body, returning the output rendering in the image or document format specified through the **[Accept](https://neodynamic.com/products/barcode/docker#The-Accept-Header)** header.
 
-## Help Doc
+### 👍 Linear (1D), Postal, Stacked & 2D Barcodes
+
+**[BarcodePro Web API for Docker](https://www.neodynamic.com/products/barcode/docker/)** supports most popular [**Linear (1D), Postal, Component Composite & 2D Barcode Symbologies**](https://neodynamic.com/barcodes) all-in-one solution including Code 39, Code 128, GS1-128, GS1 DataBar (RSS-14), EAN 13 & UPC, Postal (USPS, British Royal Mail, Australia Post, DHL, FedEx, Japan), Data Matrix (DMRE), QR Code, PDF 417, Aztec Code, UPS MaxiCode, Chinese Han Xin Code, IFA PPN, all EAN/UPC Composite Barcodes (CC-A, CC-B & CC-C), Mailmark, DotCode, Swiss-QRCode, JAB-Code Multicolored 2D Matrix and [many more barcode standards](https://neodynamic.com/barcodes)
+
+### 👍 GS1-AIM-ISO/IEC Compliance
+Our barcode algorithms were written by following the official specifications of each barcode symbology. Our barcode engine provides you with exclusive features like auto-checksum, data validation, Bar Width Adjustment (BWA) for linear & 2D symbols, auto-encoding methods for shortest barcode symbol generation.
+
+### 👍 Best-in-class Imaging Support
+
+**[BarcodePro Web API for Docker](https://www.neodynamic.com/products/barcode/docker/)** creates barcodes in **raster formats like PNG, JPEG/JPG, PCX & PDF as well as in SVG & EPS vector formats!** All barcode can be **rotated at 90, 180 & 270** degrees. **Rounded Border & Beader Bars** are also supported. **High Quality DPI Resolution** is supported for **PNG & JPEG** outputs.
+
+**[BarcodePro Web API for Docker](https://www.neodynamic.com/products/barcode/docker/)** also supports **Artistic Barcodes** i.e. customized barcodes by stamping logos or pictures on symbols as well as specifying an image for filling the bars or dots!
+
+![MaxiCode Barcode](BCDOCKER1-sx.png)
+
+![QR Code Barcode](BCDOCKER2-sx.png)
+
+![Code 128 Barcode](BCDOCKER3-sx.png)
+
+![PDF417 Barcode](BCDOCKER4-sx.png)
+
+## 📖 Help Doc
 
 [Sample code for most popular programming languages and help topics](https://neodynamic.com/products/barcode/docker/#Overview)
 
