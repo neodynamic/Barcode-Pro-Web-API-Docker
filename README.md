@@ -8,6 +8,8 @@ Designed by following some of the **REST** principles, **BarcodePro Web API for 
 
 **[BarcodePro Web API for Docker](https://www.neodynamic.com/products/barcode/docker/)** supports most popular [**Linear (1D), Postal, Component Composite & 2D Barcode Symbologies**](https://neodynamic.com/barcodes) all-in-one solution including Code 39, Code 128, GS1-128, GS1 DataBar (RSS-14), EAN 13 & UPC, Postal (USPS, British Royal Mail, Australia Post, DHL, FedEx, Japan), Data Matrix (DMRE), QR Code, PDF 417, Aztec Code, UPS MaxiCode, Chinese Han Xin Code, IFA PPN, all EAN/UPC Composite Barcodes (CC-A, CC-B & CC-C), Mailmark, DotCode, Swiss-QRCode, JAB-Code Multicolored 2D Matrix and [many more barcode standards](https://neodynamic.com/barcodes)
 
+![150+ Barcode Symbologies](150-plus-barcodes.png)
+
 ### 👍 GS1-AIM-ISO/IEC Compliance
 Our barcode algorithms were written by following the official specifications of each barcode symbology. Our barcode engine provides you with exclusive features like auto-checksum, data validation, Bar Width Adjustment (BWA) for linear & 2D symbols, auto-encoding methods for shortest barcode symbol generation.
 
